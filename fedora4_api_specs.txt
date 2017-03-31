@@ -1,0 +1,23 @@
+170331 
+ing search "Fedora API Specification"
+
+
+http://fedora.info/spec/
+
+https://wiki.duraspace.org/display/FEDORAAPI/Fedora+Specification
+
+https://groups.google.com/d/topic/fedora-community/jwIfwm7t944
+
+https://groups.google.com/d/topic/fedora-community/h39EtnxmLaI
+
+https://groups.google.com/d/topic/islandora/mvRPUGDzcXo
+
+https://www.programmableweb.com/news/duraspace-aims-to-formalize-fedora-restful-api-testable-specification/2016/05/01
+
+http://fedoraproject.org/wiki/Workstation/Technical_Specification
+
+https://wiki.duraspace.org/display/FEDORAAPI/Specification+Draft
+
+http://fedora-commons.1317035.n2.nabble.com/fedora-community-Re-fedora-tech-API-Specification-Design-goals-for-fixity-spec-td7584582.html
+
+http://fedora-commons.1317035.n2.nabble.com/fedora-community-Input-Requested-Atomic-Operations-and-External-Content-Fedora-API-Specification-td7585149.html
