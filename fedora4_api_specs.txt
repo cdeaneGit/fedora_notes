@@ -23,3 +23,5 @@ https://wiki.duraspace.org/display/FEDORAAPI/Specification+Draft
 http://fedora-commons.1317035.n2.nabble.com/fedora-community-Re-fedora-tech-API-Specification-Design-goals-for-fixity-spec-td7584582.html
 
 http://fedora-commons.1317035.n2.nabble.com/fedora-community-Input-Requested-Atomic-Operations-and-External-Content-Fedora-API-Specification-td7585149.html
+
+https://github.com/FLVC/islandora_usage_stats -- for "trending"
