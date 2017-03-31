@@ -1,7 +1,7 @@
 170331 
 Bing search "Fedora API Specification"
 
-These re supposed to be stable at birth.
+These are supposed to be stable at birth.
 
 
 http://fedora.info/spec/
